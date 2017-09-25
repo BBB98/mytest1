@@ -6,6 +6,7 @@ public class Hello {
         System.out.println("Бұл зертханалық жұмыстың мақсаты:");
         System.out.println("GitHub-пен жұмыс жасап үйрену.");
 
+
         int a=MyMath.kvadrat(5);
         int b=MyMath.kub(5);
 
